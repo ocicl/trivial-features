@@ -1,0 +1,9 @@
+* trivial-features
+
+trivial-features ensures consistent *FEATURES* across multiple Common Lisp implementations.
+
+|---------+-----------------------------------------------------------------------------------------|
+| source  | file:https://github.com/trivial-features/trivial-features/archive/refs/tags/v1.0.tar.gz |
+| version | 1.0                                                                                     |
+| systems | trivial-features                                                                        |
+|---------+-----------------------------------------------------------------------------------------|

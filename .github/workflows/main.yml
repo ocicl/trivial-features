@@ -1,0 +1,11 @@
+on: [push]
+
+jobs:
+  ocicl_job:
+    permissions:
+      packages: write
+    runs-on: ubuntu-latest
+    name: Test and publish package
+    steps:
+      - id: test-and-publish
+        uses: ocicl/ocicl-action@main

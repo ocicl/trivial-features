@@ -7,3 +7,4 @@ trivial-features ensures consistent *FEATURES* across multiple Common Lisp imple
 | version | 1.0                                                                                     |
 | systems | trivial-features                                                                        |
 |---------+-----------------------------------------------------------------------------------------|
+ 

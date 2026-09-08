@@ -4,7 +4,7 @@ trivial-features ensures consistent *FEATURES* across multiple Common Lisp imple
 
 |---------+--------------------------------------------------------------|
 | source  | git:https://github.com/trivial-features/trivial-features.git |
-| commit  | 0000000                                                      |
+| commit  | 828246a                                                      |
 | systems | trivial-features                                             |
 |---------+--------------------------------------------------------------|
   
